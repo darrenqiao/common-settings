@@ -183,9 +183,25 @@
          "icon": {
 
          },
-         "keyword": "ts",
+         "keyword": "fan",
          "title": "translate '{query}'",
          "url": "https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text={query}"
+      }, {
+         "enabled": true,
+         "icon": {
+
+         },
+         "keyword": "check",
+         "title": "check build",
+         "url": "https://ftltc01.eng.citrite.net/viewType.html?buildTypeId=SupportabilityTools_OnPrem_SmartChecks_{query}_SmartChecks"
+      }, {
+         "enabled": true,
+         "icon": {
+
+         },
+         "keyword": "tele",
+         "title": "telemetry build",
+         "url": "https://ftltc01.eng.citrite.net/viewType.html?buildTypeId=Telemetry_{query}_Telemetry"
       } ]
    },
    "launch_apps": {
