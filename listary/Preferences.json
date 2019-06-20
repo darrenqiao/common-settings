@@ -137,7 +137,7 @@
    },
    "check_update": {
       "last_check_local_version": "5.00.2843",
-      "last_check_time": "13205208510530386"
+      "last_check_time": "13205472860708539"
    },
    "hotkey": {
       "enter_actions": 0,
@@ -202,6 +202,38 @@
          "keyword": "tele",
          "title": "telemetry build",
          "url": "https://ftltc01.eng.citrite.net/viewType.html?buildTypeId=Telemetry_{query}_Telemetry"
+      }, {
+         "enabled": true,
+         "icon": {
+
+         },
+         "keyword": "infoq",
+         "title": "search {query} in info page",
+         "url": "https://info.citrite.net/dosearchsite.action?queryString={query}"
+      }, {
+         "enabled": true,
+         "icon": {
+
+         },
+         "keyword": "mailto",
+         "title": "send email to {query}",
+         "url": "mailto:{query}"
+      }, {
+         "enabled": true,
+         "icon": {
+
+         },
+         "keyword": "chat",
+         "title": "chat with {query}",
+         "url": "slack://channel?team=T02FHCP3E&id={query}"
+      }, {
+         "enabled": true,
+         "icon": {
+
+         },
+         "keyword": "syno",
+         "title": "synonym for {query}",
+         "url": "https://www.thesaurus.com/browse/{query}?s=t"
       } ]
    },
    "launch_apps": {
