@@ -234,6 +234,22 @@
          "keyword": "syno",
          "title": "synonym for {query}",
          "url": "https://www.thesaurus.com/browse/{query}?s=t"
+      }, {
+         "enabled": true,
+         "icon": {
+
+         },
+         "keyword": "prcheck",
+         "title": "create pull request for smartchecks",
+         "url": "https://code.citrite.net/projects/XASUP/repos/smartchecks/pull-requests?create"
+      }, {
+         "enabled": true,
+         "icon": {
+
+         },
+         "keyword": "prtele",
+         "title": "create pull request for telemetry",
+         "url": "https://code.citrite.net/projects/XD/repos/telemetry/pull-requests?create"
       } ]
    },
    "launch_apps": {
