@@ -137,7 +137,7 @@
    },
    "check_update": {
       "last_check_local_version": "5.00.2843",
-      "last_check_time": "13205727093038920"
+      "last_check_time": "13205905540044804"
    },
    "hotkey": {
       "enter_actions": 0,
@@ -240,7 +240,7 @@
 
          },
          "keyword": "prcheck",
-         "title": "create pull request for smartchecks",
+         "title": "create pull request for smartcheck",
          "url": "https://code.citrite.net/projects/XASUP/repos/smartchecks/pull-requests?create"
       }, {
          "enabled": true,
